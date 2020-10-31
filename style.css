@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background:#292830;
+    width: 100%;
+    min-height: 10vh;
+    color: white;
+    display: grid;
+    grid-template-columns: 10% 1fr 1fr 10%;    
+    position: sticky;
+    top: 0;
+    z-index: 7;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+nav h1{
+    grid-column: 2/3;
+}
+nav ul{
+    grid-column: 3/4;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center; 
+    margin: auto;  
+    
+}
+
+
+.toppic{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+}
+.logoall{
+    width: 80%;
+    height: 60vh;
+    background: #292830;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+.logoall img{
+    width: 100%;
+    height: 100%;
+}
+
+.underlogo{
+    width: 80%;
+    height: 10vh;
+    margin-top: 5vh;
+    background: #272e27;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.photorad{
+    width: 100%;
+    margin-top: 5vh;
+}
+.containerphoto{
+    width: 80%;
+    height: 100vh;
+    margin-left: 50%;
+    transform: translate(-50%);
+    position: relative;
+}
+.leftdiv{
+    width: 40%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+}
+.littlearea{
+    width: 100%;
+    background: #292830;
+    height: 10vh;
+    float: left;
+
+}
+.photo1{
+    width: 100%;
+    margin-top: 3vh;
+    height: 40vh;
+    object-fit: cover;
+
+}
+.photo2{
+    width: 100%;
+    margin-top: 3vh;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.rightdiv{
+    width: 50%;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100vh;
+ 
+}
+.photo3{
+    width: 100%;
+    height: 47vh;
+    object-fit: cover;  
+}
+
+.bigarea{
+    width: 100%;
+    background: #292830;
+    height: 50vh;
+    margin-top: 3vh;
+}
+
+.blackpot{
+    height: 100vh;
+    width: 80%;
+    margin-top: 5vh;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.underphotorad{
+    width: 100%;
+    height: 10vh;
+    background: #292830;
+}
+.divblackpotcontent{
+    width: 100%;
+    height: 80vh;
+
+}
+.imgdiv{
+    width: 80%;
+    height: 40vh;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 3vh;
+}
+.imgdiv img{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    object-fit: cover;
+}
+.areatext{
+    width: 100%;
+    margin-top: 3vh;
+    background: #292830;
+    height: 50vh;
+}
+
+.contactsection{
+    width: 80%;
+    height: 100vh;
+    margin-top: 10vh;
+    margin-left: 50%;
+    transform: translate(-50%);
+    position: relative;
+}
+.underblackpot{
+    margin-top: 5vh;
+    width: 100%;
+    height: 10vh;
+    background: #292830;
+}
+.allcontacts{
+    width: 100%;
+    margin-top: 3vh;
+   
+}
+.allcontacts img{
+    overflow: hidden;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.fot{
+    background: black;
+    width: 100%;
+    height: 10vh;
+    margin-top: 3vh;
+    color: white;
+    position: sticky;
+    display: grid;
+    grid-template-columns: 10% 1fr 1fr 10%;
+}
+.fot ul{
+    grid-column: 2/3;
+    list-style: none;
+}
