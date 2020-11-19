@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1125 2436" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.488612,0,0,0.870711,215.853,181.259)">
+        <text x="452.499px" y="1305.39px" style="font-family:'HelveticaNeue-Thin', 'Helvetica Neue', sans-serif;font-weight:200;font-size:129.185px;fill:white;">F<tspan x="540.78px 584.622px 687.889px " y="1305.39px 1305.39px 1305.39px ">IRE</tspan></text>
+    </g>
+    <g transform="matrix(0.518086,0,0,0.964209,275.688,43.5764)">
+        <text x="621.795px" y="1322.1px" style="font-family:'HelveticaNeue-Medium', 'Helvetica Neue', sans-serif;font-weight:500;font-size:116.887px;fill:white;">B<tspan x="723.881px 817.317px 919.403px 1017.17px " y="1322.1px 1322.1px 1322.1px 1322.1px ">ERRY</tspan></text>
+    </g>
+    <path d="M491.999,1332.21L804.105,1334.4C764.858,1450.02 571.239,1512.25 491.999,1332.21Z" style="stroke:black;stroke-width:1px;"/>
+    <path d="M475.083,1222.61C469.344,1196.78 482.439,1155.87 508.877,1104.29C507.821,1135.52 512.404,1149.79 527.71,1150.08C538.121,1085.28 582.902,1073.95 640.845,1025.26C654.504,1013.78 684.342,957.237 681.916,926.169C749.11,980.927 763.79,1045.56 740.128,1106.07C724.143,1168.05 731.275,1190.53 752.947,1196.18C778.51,1199.87 778.485,1176 779.453,1155.34C797.176,1178.22 810.707,1201.35 810.876,1225.24L475.083,1222.61Z" style="fill:rgb(241,78,79);stroke:rgb(241,78,79);stroke-width:1px;"/>
+    <path d="M593.292,1223.58C559.009,1176.07 522.88,1173.65 517.792,1222.94L593.292,1223.58Z" style="fill:white;stroke:white;stroke-width:1px;"/>
+    <path d="M612.369,1223.74C603.984,1203.83 584.218,1189.08 553.943,1175.98C587.647,1145.74 683.301,1174.24 701.777,1224.55L612.369,1223.74Z" style="fill:white;stroke:white;stroke-width:1px;"/>
+    <path d="M714.097,1397.17C657.316,1432.27 587.098,1392.64 553.94,1332.62L638.89,1333.16C652.899,1362.49 680.83,1383.47 714.097,1397.17Z" style="fill:white;stroke:white;stroke-width:1px;"/>
+    <path d="M659.738,1333.27C727.385,1434.65 747.008,1373.13 747.949,1333.83L659.738,1333.27Z" style="fill:white;stroke:white;stroke-width:1px;"/>
+</svg>
