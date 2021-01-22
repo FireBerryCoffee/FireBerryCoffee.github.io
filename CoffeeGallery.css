@@ -45,6 +45,9 @@
 .full-img{
     position: absolute;
     height: 85%;
+     width: 50%;
+    object-fit: cover;
+    overflow: hidden;
     top: 50%;
     left: 60%;
     transform: translate(-60%,-50%) scale(0.5);
